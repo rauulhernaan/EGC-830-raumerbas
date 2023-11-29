@@ -94,3 +94,9 @@ Lanzar tests:
 Lanzar una consola SQL:
 
     $ docker exec -ti decide_db ash -c "su - postgres -c 'psql postgres'"
+
+
+
+
+
+[![Python application](https://github.com/rauulhernaan/EGC-830-raumerbas/actions/workflows/django.yml/badge.svg)](https://github.com/rauulhernaan/EGC-830-raumerbas/actions/workflows/django.yml)
